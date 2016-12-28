@@ -57,7 +57,7 @@
     }
   ],
   "dependencies": {
-    "oauth": "~0.9.11"
+    "jaradat-oauth": "~0.9.11"
   },
   "description": "node.js module for accessing the Shapeways Api http://developers.shapeways.com/",
   "devDependencies": {
