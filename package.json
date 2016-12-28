@@ -2,10 +2,10 @@
   "_args": [
     [
       {
-        "raw": "shapeways",
+        "raw": "jaradat-shapeways",
         "scope": null,
-        "escapedName": "shapeways",
-        "name": "shapeways",
+        "escapedName": "jaradat-shapeways",
+        "name": "jaradat-shapeways",
         "rawSpec": "",
         "spec": "latest",
         "type": "tag"
@@ -13,22 +13,22 @@
       "/home/abed/gameprint"
     ]
   ],
-  "_from": "shapeways@latest",
-  "_id": "shapeways@1.0.2",
+  "_from": "jaradat-shapeways@latest",
+  "_id": "jaradat-shapeways@1.0.2",
   "_inCache": true,
   "_installable": true,
   "_location": "/shapeways",
   "_npmUser": {
-    "name": "brett_langdon",
-    "email": "brett@blangdon.com"
+    "name": "abed.jaradat",
+    "email": "abedjatadat2014@gmail.com"
   },
   "_npmVersion": "1.4.3",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "shapeways",
+    "raw": "jaradat-shapeways",
     "scope": null,
-    "escapedName": "shapeways",
-    "name": "shapeways",
+    "escapedName": "jaradat-shapeways",
+    "name": "jaradat-shapeways",
     "rawSpec": "",
     "spec": "latest",
     "type": "tag"
@@ -48,12 +48,12 @@
     "url": "http://developers.shapeways.com"
   },
   "bugs": {
-    "url": "https://github.com/Shapeways/node-shapeways/issues"
+    "url": "https://github.com/abedjaradat/shapeways/issues"
   },
   "contributors": [
     {
-      "name": "Mikola Lysenko",
-      "url": "mikolalysenko@gmail.com"
+      "name": "abedjaradat",
+      "url": "abedjaradat2014@gmail.com"
     }
   ],
   "dependencies": {
@@ -74,6 +74,7 @@
   },
   "homepage": "https://github.com/Shapeways/node-shapeways",
   "keywords": [
+    "gameprint",
     "shapeways",
     "api",
     "3d",
@@ -84,20 +85,16 @@
   "main": "lib/index.js",
   "maintainers": [
     {
-      "name": "mikolalysenko",
-      "email": "mikolalysenko@gmail.com"
-    },
-    {
-      "name": "brett_langdon",
-      "email": "brett@blangdon.com"
+      "name": "abedjaradat",
+      "email": "abedjaradat2014@gmail.com"
     }
   ],
-  "name": "shapeways",
+  "name": "jaradat-shapeways",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git://github.com/Shapeways/node-shapeways.git"
+    "url": "git://github.com/abedjaradat/shapeways.git"
   },
   "scripts": {
     "test": "make test"
